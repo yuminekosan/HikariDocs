@@ -5,7 +5,7 @@
 ## Список сервисов
 На данный момент планируется реализовать 3 сервиса:
 1. HikariLib - сервис чтения ранобэ и (возможно) манги
-2. [HkiariAuth](github.com/yuminekosan/hikariAuth) - сервис авторизации и аутентификации пользователей
+2. [HkiariAuth](https://github.com/yuminekosan/hikariAuth) - сервис авторизации и аутентификации пользователей
 3. HikariAdminPanel - сервис администрирования
 
 ## Общая концепция
@@ -21,7 +21,7 @@
 ### HikariLib
 сервис чтения ранобэ и манги 
 Состоит из двух частей:
-1. [Сервер](github.com/yuminekosan/hikariLibBackend)
-2. [Клиент](github.com/yuminekosan/hikariLibFrontend)
+1. [Сервер](https://github.com/yuminekosan/hikariLibBackend)
+2. [Клиент](https://github.com/yuminekosan/hikariLibFrontend)
 
 В сервисе будут реализован весь функционал для чтения ранобэ и манги, комментирования, оценки, добавления в библиотеку
